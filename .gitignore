@@ -1,0 +1,15 @@
+# Éviter d'uploader le fichier Figma dans le projet
+#####################################################
+## Please do not remove lines 5 - thanks! 🙂 ##
+#####################################################
+*.fig
+ 
+ 
+# Éviter les fichiers cachés nuisibles:
+.DS_Store
+.prettierignore
+.vscode/
+.idea/
+ 
+# Ne pas versionner le dossier dart-sass/
+dart-sass/

@@ -1,0 +1,298 @@
+@charset "UTF-8";
+
+/**
+ * @author Prénom Nom courriel
+ *
+ * TABLE DES MATIÈRES
+ * Normalize
+ * Utilitaires
+ * Charte typographique
+ * Grille
+ * Menu
+ * Règles générales
+ * Mise en page
+ *** Entête du site
+ *** Menu principal
+ *** Accroche
+ *** Entreprise
+ *** Expériences
+ *** Services
+ *** Pied de page
+ */
+
+/* Normalize
+   ========================================================================== */
+@import "normalize";
+
+/* Utilitaires
+   ========================================================================== */
+@import "utilitaires";
+
+/* Charte typographique
+   ========================================================================== */
+@import "typo";
+
+/* Grille
+   ========================================================================== */
+@import "grille";
+
+/* Menu
+   ========================================================================== */
+@import "menu";
+
+/* */
+
+.desktop {
+    position: absolute;
+    height: 18.59%;
+    width: 39.33%;
+    top: 81.41%;
+    right: 60.67%;
+    bottom: 0%;
+    left: 0%;
+    overflow: hidden;
+    color: #fff;
+}
+
+.release-on-527 {
+    position: absolute;
+    top: calc(50% + 114px);
+    left: 48.31%;
+    line-height: 26px;
+    text-transform: uppercase;
+}
+
+.typemaster-keyboard-parent {
+    position: absolute;
+    top: 256px;
+    left: 165px;
+    width: 445px;
+    height: 312px;
+    overflow: hidden;
+    font-size: 16px;
+    color: #7b8bad;
+}
+
+.desktop-child {
+    position: absolute;
+    top: 196px;
+    left: 735px;
+    width: 540px;
+    height: 480px;
+    object-fit: cover;
+}
+
+.group-3-copy {
+    position: absolute;
+    top: 706px;
+    left: 450px;
+    width: 445px;
+    height: 480px;
+    object-fit: cover;
+}
+
+.group-3-copy-2 {
+    position: absolute;
+    top: 706px;
+    left: 165px;
+    width: 255px;
+    height: 480px;
+    object-fit: cover;
+}
+
+.rectangle1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #e8eff2;
+    width: 255px;
+    height: 236px;
+}
+
+.group-3-copy-3 {
+    position: absolute;
+    top: 950px;
+    left: -120px;
+    width: 255px;
+    height: 236px;
+}
+
+.rectangle2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #e8eff2;
+    width: 255px;
+    height: 240px;
+}
+
+.group-3-copy-4 {
+    position: absolute;
+    top: 196px;
+    left: 1305px;
+    width: 255px;
+    height: 240px;
+}
+
+.mechanical-wireless {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 36px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    width: 255px;
+}
+
+.the-typemaster-keybo-container {
+    position: absolute;
+    top: 135px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    color: #7b8bad;
+    display: inline-block;
+    width: 255px;
+}
+
+.mechanical-wireless-parent {
+    position: absolute;
+    top: 818px;
+    left: 1020px;
+    width: 255px;
+    height: 265px;
+    font-size: 32px;
+}
+
+.highly-compatible {
+    position: absolute;
+    top: 113px;
+    left: 0px;
+    line-height: 28px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    width: 255px;
+}
+
+.easy-to-use {
+    position: absolute;
+    top: 193px;
+    left: 0px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    color: #7b8bad;
+    display: inline-block;
+    width: 255px;
+}
+
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+}
+
+.highly-compatible-parent {
+    position: absolute;
+    top: 1354px;
+    left: 165px;
+    width: 255px;
+    height: 323px;
+}
+
+.wireless-with-blueto-parent {
+    position: absolute;
+    top: 1354px;
+    left: 450px;
+    width: 255px;
+    height: 323px;
+}
+
+.high-capacity-batter-parent {
+    position: absolute;
+    top: 1354px;
+    left: 735px;
+    width: 255px;
+    height: 323px;
+}
+
+.rgb-backlit-modes-parent {
+    position: absolute;
+    top: 1354px;
+    left: 1020px;
+    width: 255px;
+    height: 323px;
+}
+
+.all-rights-reserved {
+    font-weight: 500;
+    white-space: pre-wrap;
+}
+
+.typemaster-2021-container {
+    position: absolute;
+    top: 1805px;
+    left: 568px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7b8bad;
+}
+
+.group-child1 {
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.rectangle3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #e8eff2;
+}
+
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 935px;
+    width: 175px;
+    height: 58px;
+    overflow: hidden;
+}
+
+.group-parent {
+    position: absolute;
+    top: 55px;
+    left: 165px;
+    width: 1110px;
+    height: 58px;
+    font-size: 16px;
+}
+
+.desktop {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1870px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #162542;
+    font-family: Barlow;
+}
