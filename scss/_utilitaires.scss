@@ -3,11 +3,11 @@
 
 /****** Variables (peuvent être utilisées dans tous les fichiers) *******/
 :root {
-    /** À DÉFINIR
-      * Couleur d'interactivité (jaune):
-      * Blanc avec effet de transparence :
-      * Valeur de border-radius des éléments :
-      */
+    --noir: #000;
+    --blanc: #fff;
+    --gris: #4C3F1A;
+    --jaune: #C7AA5D;
+    --jaunePale: #E3D5B0;
 }
 
 /*** Clearfix ***/
