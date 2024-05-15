@@ -216,7 +216,7 @@ article section:nth-of-type(1) section p {
     align-self: center;
 }
 
-article section:nth-of-type(2) img {
+.img__keyboard {
     height: 84vw;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -224,14 +224,14 @@ article section:nth-of-type(2) img {
 }
 
 @media only screen and (min-width: 700px) {
-    article section:nth-of-type(2) img {
+    .img__keyboard {
         height: 400px;
         flex-grow: 1;
     }
 }
 
 @media only screen and (min-width: 1440px) {
-    article section:nth-of-type(2) img {
+    .img__keyboard {
         height: 450px;
         border-radius: 20px;
     }
